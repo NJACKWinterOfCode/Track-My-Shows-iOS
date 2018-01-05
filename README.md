@@ -1,5 +1,7 @@
 # Track-My-Shows-iOS
 
+![logo](https://user-images.githubusercontent.com/8962264/33332046-3791a9be-d489-11e7-8dff-40526401498a.png)  
+
 ## Building
 > Swift 3, XCode 8.0+
 
